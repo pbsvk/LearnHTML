@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69b9d696-943d-4ec6-8997-e135369c5911" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearnHTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9867271-uhd_3840_2160_24fps.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG_7913.HEIC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie collage wallpaper made by me.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="69b9d696-943d-4ec6-8997-e135369c5911" name="Changes" comment="Practice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +72,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733702223002</updated>
-      <workItem from="1733702224160" duration="5810000" />
+      <workItem from="1733702224160" duration="7838000" />
     </task>
+    <task id="LOCAL-00001" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1733778863455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733778863455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1733778896498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733778896498</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1733778911750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733778911750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
 </project>
